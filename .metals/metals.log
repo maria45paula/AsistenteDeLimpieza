@@ -1,0 +1,585 @@
+2026.09.06 15:47:51 INFO  Started: Metals version 1.6.8 in folders 'C:\Users\ASUS\Desktop\AsistenteDeLimpieza' for client Visual Studio Code 1.136.1.
+2026.09.06 15:47:51 INFO  Memory monitor started
+2026.09.06 15:47:54 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.06 15:47:55 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:48:01 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:48:14 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:48:15 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:48:16 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:48:17 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:48:17 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Desktop/AsistenteDeLimpieza/src/main/scala/modelo/Casa.scala
+2026.09.06 15:48:17 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Habitacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:48:17 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Habitacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:48:18 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:48:18 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Desktop/AsistenteDeLimpieza/src/main/scala/modelo/ObjetoCasa.scala
+2026.09.06 15:48:19 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:48:19 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\GeneradorAleatorio.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:48:20 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Desktop/AsistenteDeLimpieza/src/main/scala/GeneradorAleatorio.scala
+2026.09.06 15:48:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\GeneradorAleatorio.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:48:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:52:38 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:52:39 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Habitacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:52:39 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Desktop/AsistenteDeLimpieza/src/main/scala/modelo/Habitacion.scala
+2026.09.06 15:52:43 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Habitacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:52:43 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Habitacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:52:44 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Habitacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:08 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Habitacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:09 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Habitacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 3:53:10 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 59
+2026.09.06 15:53:09 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Habitacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 3:53:11 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60
+2026.09.06 15:53:11 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Habitacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:11 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Habitacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:12 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Habitacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:12 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Habitacion.scala
+2026.09.06 15:53:12 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Habitacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:15 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Habitacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:28 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 3:53:30 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 71
+2026.09.06 15:53:30 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:31 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 3:53:31 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 73
+2026.09.06 15:53:31 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:31 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 3:53:32 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 75
+2026.09.06 15:53:32 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:32 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:34 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:46 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:46 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:46 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:46 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:47 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:49 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:51 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:51 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:51 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:53 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 3:53:53 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 98
+sept 06, 2026 3:53:53 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 100
+2026.09.06 15:53:53 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 3:53:54 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 101
+2026.09.06 15:53:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 3:53:55 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 108
+2026.09.06 15:53:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 3:53:55 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 109
+2026.09.06 15:53:55 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:55 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:57 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:58 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:53:58 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala
+2026.09.06 15:53:58 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:54:24 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:54:24 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Desktop/AsistenteDeLimpieza/src/main/scala/modelo/ObjetoCasa.scala
+2026.09.06 15:54:26 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:54:26 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:54:26 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:54:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:54:54 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala
+2026.09.06 15:54:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:55:43 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:55:43 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Desktop/AsistenteDeLimpieza/src/main/scala/modelo/Casa.scala
+2026.09.06 15:55:45 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:55:45 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:55:46 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:55:46 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:55:48 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:55:48 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 15:55:48 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 15:56:12 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 15:56:12 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:04:34 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:04:34 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Desktop/AsistenteDeLimpieza/src/main/scala/modelo/PruebaCasa.scala
+2026.09.06 16:04:53 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:04:53 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:04:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:04:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:04:54 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 178
+2026.09.06 16:04:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:04:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:04:54 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala
+2026.09.06 16:04:58 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:05:07 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:06:08 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:14:17 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:14:19 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:14:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:14:21 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala
+2026.09.06 16:14:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:14:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:14:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:14:23 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:14:23 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:14:23 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:14:23 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:14:23 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:14:24 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:15:10 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala
+2026.09.06 16:15:10 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:15:10 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:15:18 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:15:18 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+sept 06, 2026 4:15:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 219
+2026.09.06 16:15:18 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:15:19 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 220
+2026.09.06 16:15:18 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:15:19 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:15:53 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:15:53 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:15:55 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:15:55 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:15:55 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:15:57 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:15:57 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 16:15:57 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:16:25 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 16:16:25 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:18:05 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:18:06 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala
+sept 06, 2026 4:18:06 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 293
+2026.09.06 16:18:05 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:18:06 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 294
+2026.09.06 16:18:05 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:18:07 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:18:07 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:18:07 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:18:08 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 302
+2026.09.06 16:18:08 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:18:08 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:18:08 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 304
+2026.09.06 16:18:08 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:18:08 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 309
+2026.09.06 16:18:09 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:18:09 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala
+2026.09.06 16:18:09 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:18:09 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:18:13 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:22:17 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Puntuacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:22:17 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Desktop/AsistenteDeLimpieza/src/main/scala/modelo/Puntuacion.scala
+2026.09.06 16:22:24 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Puntuacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:22:24 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Puntuacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:22:24 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Puntuacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:22:25 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Puntuacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:22:25 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Puntuacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:22:26 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Puntuacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:22:26 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Puntuacion.scala
+2026.09.06 16:22:26 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Puntuacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:22:49 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Puntuacion.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:22:52 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:22:52 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+sept 06, 2026 4:22:52 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 339
+2026.09.06 16:22:52 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:22:52 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 340
+2026.09.06 16:22:52 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:22:52 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:13 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:13 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:13 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:14 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:14 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:15 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:15 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:15 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:17 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:17 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:17 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:17 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:17 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 16:23:24 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:28 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:31 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:31 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:31 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:33 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:23:33 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 385
+2026.09.06 16:23:33 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:33 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:33 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:34 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:23:35 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 389
+2026.09.06 16:23:34 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:35 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:36 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:36 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:23:36 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 16:23:39 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:24:41 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:24:41 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:24:42 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:24:42 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:24:42 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:24:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:24:55 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 456
+2026.09.06 16:24:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:24:55 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:24:55 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:24:56 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:24:57 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:24:57 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 16:25:00 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:25:41 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\build.sbt
+2026.09.06 16:25:41 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:25:41 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:26:41 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:26:47 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:26:47 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:27:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:27:27 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:28:42 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:28:42 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:28:43 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:28:43 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:28:44 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:28:45 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 548
+2026.09.06 16:28:44 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:28:44 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:28:46 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:28:46 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:28:47 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:28:47 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:28:48 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:28:49 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:28:50 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:28:50 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 16:28:50 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:16 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:16 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:16 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:17 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:17 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:18 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:18 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:18 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:20 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:20 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:20 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:20 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 16:29:23 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:53 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:53 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Exception in thread "pool-133-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:208)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+2026.09.06 16:29:53 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:55 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:55 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:55 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:29:56 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 624
+2026.09.06 16:29:57 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:29:57 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 16:29:57 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:30:19 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:30:19 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:30:19 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:30:19 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:30:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:30:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:30:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:30:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:30:22 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 643
+2026.09.06 16:30:23 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:30:23 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:30:23 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:30:23 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 16:30:26 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:30:42 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:30:42 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:30:42 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:32:11 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:32:11 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:32:12 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 660
+2026.09.06 16:32:12 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:32:12 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:32:13 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 662
+2026.09.06 16:32:12 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:32:13 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 663
+2026.09.06 16:32:13 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:32:13 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:32:14 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 665
+2026.09.06 16:32:14 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:32:14 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:32:14 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 16:32:24 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:33:26 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:33:26 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala
+2026.09.06 16:33:26 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:33:27 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 676
+2026.09.06 16:33:27 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:33:27 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:33:27 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:33:28 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 683
+2026.09.06 16:33:27 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:33:27 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:33:28 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 685
+2026.09.06 16:33:28 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:33:28 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:33:29 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:33:29 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala
+2026.09.06 16:33:32 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:27 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:28 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 16:37:27 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:27 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:28 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:50 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:50 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:51 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:51 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:53 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:53 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:55 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:55 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:37:56 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 744
+2026.09.06 16:37:55 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:57 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:57 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:57 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:37:57 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 16:38:00 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:38:29 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:38:29 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:38:30 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 761
+2026.09.06 16:38:29 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:38:30 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:38:30 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:38:32 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:38:32 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:38:32 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 16:38:32 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:38:35 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:38:42 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 16:38:42 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:40:04 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:40:04 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 782
+2026.09.06 16:40:04 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:40:05 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 783
+2026.09.06 16:40:04 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:40:05 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:40:06 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:40:06 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:40:06 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala
+2026.09.06 16:40:09 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Casa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:41:45 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:41:45 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:41:46 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala
+sept 06, 2026 4:41:46 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 797
+2026.09.06 16:41:46 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:41:46 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:17 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:17 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:17 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:18 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:18 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:18 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:18 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:18 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:19 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:19 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:19 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:19 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:20 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:42:21 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 847
+2026.09.06 16:42:22 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:22 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:23 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:42:23 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala
+2026.09.06 16:42:24 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:06 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:06 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:07 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:07 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:07 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala
+2026.09.06 16:44:07 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:16 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:24 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:27 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:27 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:29 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:34 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:34 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:34 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:35 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:35 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:37 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:38 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:38 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:39 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:38 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:44:39 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:05 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:05 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:05 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:06 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:07 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:08 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:08 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala
+2026.09.06 16:45:08 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:27 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:27 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:28 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:28 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:29 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:30 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:30 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:30 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:30 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:30 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:33 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:35 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:35 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:35 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:36 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:37 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:37 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:45:37 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 972
+2026.09.06 16:45:37 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:37 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:38 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:45:38 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:24 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:24 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:24 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:25 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:25 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:26 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:25 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:25 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:26 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:27 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:29 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:30 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:34 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:36 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:36 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:36 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:36 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:38 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:39 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:39 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:41 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:41 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:42 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:42 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:42 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:44 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:44 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:45 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:45 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:48:49 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.09.06 16:48:51 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:51 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:52 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:53 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala
+2026.09.06 16:48:53 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:48:53 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:51:20 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\PruebaCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:51:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:51:21 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala
+2026.09.06 16:51:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:51:21 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:51:22 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:51:22 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:51:22 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:51:23 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1050
+2026.09.06 16:51:22 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\ObjetoCasa.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:52:51 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:52:51 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Desktop/AsistenteDeLimpieza/src/main/scala/modelo/Objeto.scala
+2026.09.06 16:53:04 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:53:04 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:53:04 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:53:04 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:53:05 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:53:05 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:53:06 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:53:06 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala
+2026.09.06 16:53:06 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:55:01 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:55:03 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala
+sept 06, 2026 4:55:03 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1077
+2026.09.06 16:55:03 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:55:03 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:55:03 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:55:03 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1082
+2026.09.06 16:55:03 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:55:04 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1085
+2026.09.06 16:55:04 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:55:11 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:55:42 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:55:43 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala
+sept 06, 2026 4:55:43 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1089
+2026.09.06 16:55:42 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:55:43 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:55:42 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:55:44 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:55:53 INFO  no build target found for c:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\Objeto.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:55:53 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:55:54 WARN  no build target for: C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala
+sept 06, 2026 4:55:54 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1097
+2026.09.06 16:55:53 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:55:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.06 16:55:54 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:55:54 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1099
+2026.09.06 16:58:46 INFO  no build target found for C:\Users\ASUS\Desktop\AsistenteDeLimpieza\src\main\scala\modelo\SistemaRobot.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 06, 2026 4:58:49 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

@@ -7,19 +7,9 @@ import modelo.TipoObjeto.Ropa
 
 import scala.collection.mutable
 
-// MODELOS BÁSICOS
 
-/**Habitaciones de la casa. */
-sealed trait Habitacion
-object Habitacion {
-  case object Dormitorio extends Habitacion // 
-  case object Cocina     extends Habitacion // 
-  case object Sala       extends Habitacion // 
-  case object Bano       extends Habitacion // 
-  case object Patio      extends Habitacion // 
 
-  val todas: List[Habitacion] = List(Dormitorio, Cocina, Sala, Bano, Patio)
-}
+
 
 /** Tipos de objetos que el robot puede manipular. */
 sealed trait TipoObjeto
