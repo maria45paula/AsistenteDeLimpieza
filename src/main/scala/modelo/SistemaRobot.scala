@@ -1,3 +1,10 @@
+package modelo
+
+import modelo.Accion.*
+import modelo.EstadoRobot.{Inactivo, Limpiando, Moviendose, SinBateria}
+import modelo.Habitacion.{Dormitorio, Sala}
+import modelo.TipoObjeto.Ropa
+
 import scala.collection.mutable
 
 // MODELOS BÁSICOS
@@ -82,8 +89,8 @@ class RobotAspiradora(
     val nombre: String = "Ayudante",
     private var modificador: Modificador = Modificador.ninguno
 ) {
-  import Accion._
-  import EstadoRobot._
+  import Accion.*
+  import EstadoRobot.*
 
   private var _energia: Int = 100
   private var _estado: EstadoRobot = Inactivo
@@ -196,9 +203,9 @@ class RobotAspiradora(
 // (Se reemplazará esto por botones reales de la GUI)
 // 
 object DemoSistemaRobot extends App {
-  import Accion._
-  import Habitacion._
-  import TipoObjeto._
+  import Accion.*
+  import Habitacion.*
+  import TipoObjeto.*
 
   val robot = new RobotAspiradora("R2-Limpio")
 
