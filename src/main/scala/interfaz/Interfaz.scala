@@ -1,61 +1,103 @@
 package interfaz
 
-import scala.swing._
+import scala.swing.*
 import scala.swing.event.ButtonClicked
 import modelo.Casa
 import modelo.Robot
-
+import java.awt.Image
+import javax.swing.ImageIcon
+import java.awt.Color
+import java.awt.Font
 
 class Interfaz(robot: Robot, casa: Casa) extends MainFrame {
-  title = "🤖 Ayudante de Limpieza"
-  preferredSize = new Dimension(700, 500)
 
-  val mensaje = new TextArea {
-    rows = 5
-    lineWrap = true
-    wordWrap = true
-    editable = false
+  // 1. Textos
+  val titulo = new Label("🤖 AYUDANTE DE LIMPIEZA") {
+    foreground = Color.white
+    font = new Font("Verdana", Font.BOLD, 20)
   }
+  titulo.xLayoutAlignment = 0.5
 
-  val estadoRobot = new Label()
-  val estadoCasa = new Label()
+  val estadoRobot = new Label() {
+    foreground = Color.white
+    font = new Font("Verdana", Font.PLAIN, 14)
+  }
+  estadoRobot.xLayoutAlignment = 0.5
+
+  val estadoCasa = new Label() {
+    foreground = Color.white
+    font = new Font("Verdana", Font.PLAIN, 14)
+  }
+  estadoCasa.xLayoutAlignment = 0.5
+
+  val etiquetaRespuesta = new Label(" Tu asistente de limpieza fav :") {
+    foreground = Color.white
+    font = new Font("Verdana", Font.BOLD, 14)
+  }
+  etiquetaRespuesta.xLayoutAlignment = 0.5
+
+  val mensaje = new Label {
+    foreground = Color.white
+    horizontalAlignment = Alignment.Center
+    font = new Font("Verdana", Font.PLAIN, 16)
+  }
+  mensaje.xLayoutAlignment = 0.5
+
+  // 2. Imagen
+  val ruta = getClass.getResource("/imagenes/robot.jpg")
+  val iconoOriginal = new ImageIcon(ruta)
+  val imagenEscalada = iconoOriginal.getImage.getScaledInstance(150, 150, Image.SCALE_SMOOTH)
+
+  val imagenRobot = new Label {
+    icon = new ImageIcon(imagenEscalada)
+  }
+  imagenRobot.xLayoutAlignment = 0.5
+
+  // 3. Botones (esto es lo que se había perdido)
+  val fuenteBotones = new Font("Verdana", Font.BOLD, 14)
+  val colorBotones = new Color(100, 149, 237)
 
   val limpiar = new Button("🧹 Limpiar") {
-    background = new Color (0, 240, 255)
+    font = fuenteBotones
+    background = colorBotones
+    foreground = Color.white
   }
-  
   val recoger = new Button("👕 Recoger") {
-    background = new Color (161, 0, 255)
+    font = fuenteBotones
+    background = colorBotones
+    foreground = Color.white
   }
-  
   val organizar = new Button("📦 Organizar") {
-    background = new Color (255, 0, 85)
+    font = fuenteBotones
+    background = colorBotones
+    foreground = Color.white
   }
-  
   val cargar = new Button("🔋 Cargar") {
-    background = new Color(57, 255, 20)
+    font = fuenteBotones
+    background = colorBotones
+    foreground = Color.white
   }
 
+  val botones = new FlowPanel(FlowPanel.Alignment.Center)(limpiar, recoger, organizar, cargar)
+  botones.background = Color.black
+  botones.xLayoutAlignment = 0.5
 
-  val botones = new BoxPanel(Orientation.Horizontal) {
-    contents += limpiar
-    contents += recoger
-    contents += organizar
-    contents += cargar
-  }
 
   contents = new BoxPanel(Orientation.Vertical) {
-    contents += new Label("🤖 AYUDANTE DE LIMPIEZA")
+    background = Color.black
+    contents += titulo
+    contents += Swing.VStrut(15)
+    contents += imagenRobot
     contents += Swing.VStrut(15)
     contents += estadoRobot
     contents += estadoCasa
     contents += Swing.VStrut(20)
     contents += botones
     contents += Swing.VStrut(20)
-    contents += new Label("📋 Última respuesta")
+    contents += etiquetaRespuesta
     contents += mensaje
-    border = Swing.EmptyBorder(20, 20, 20, 20)
   }
+
 
   actualizarEstado()
 
@@ -84,4 +126,3 @@ class Interfaz(robot: Robot, casa: Casa) extends MainFrame {
       s"🏠 Limpieza de la casa: ${casa.nivelLimpieza}%"
   }
 }
-

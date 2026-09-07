@@ -7,8 +7,12 @@ import interfaz.Interfaz
 import logica.MemoriaRobot
 import logica.GestorLimpieza
 
+import javax.swing.UIManager
+
 
 object Main extends App {
+
+  UIManager.setLookAndFeel(UIManager.getCrossPlatformLookAndFeelClassName())
 
   val casa = new Casa()
 
@@ -20,6 +24,7 @@ object Main extends App {
 
   Swing.onEDT {
     val ventana = new Interfaz(robot, casa)
+    ventana.pack()
     ventana.visible = true
   }
 }
