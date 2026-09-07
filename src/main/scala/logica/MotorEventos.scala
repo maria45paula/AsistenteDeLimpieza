@@ -1,5 +1,7 @@
 package logica
 
+import modelo.Robot
+import modelo.Casa
 import scala.util.Random
 
 object MotorEventos {

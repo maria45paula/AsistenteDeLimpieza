@@ -1,3 +1,5 @@
+package modelo
+
 class ObjetoCasa(val nombre: String) {
 
   var ubicacionCorrecta = true

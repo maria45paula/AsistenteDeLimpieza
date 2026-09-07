@@ -1,3 +1,7 @@
+package logica
+
+import modelo.Casa
+
 class GestorLimpieza(casa: Casa) {
 
   private var tareasCompletadas = 0

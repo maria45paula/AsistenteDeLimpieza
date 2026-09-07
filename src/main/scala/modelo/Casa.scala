@@ -1,3 +1,5 @@
+package modelo
+
 class Casa {
 
   var nivelLimpieza = 50

@@ -1,3 +1,5 @@
+package modelo
+
 class Habitacion(val nombre: String) {
 
   var limpieza = 50

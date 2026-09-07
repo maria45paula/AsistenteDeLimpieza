@@ -1,4 +1,8 @@
 package modelo
+
+import logica.MemoriaRobot
+import logica.MotorEventos
+
 class Robot(val nombre: String, val memoria: MemoriaRobot) {
 
   var energia = 100

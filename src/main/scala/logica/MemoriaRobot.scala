@@ -1,3 +1,5 @@
+package logica
+
 class MemoriaRobot {
 
   private var historial: List[String] = List()
