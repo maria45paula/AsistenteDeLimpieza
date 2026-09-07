@@ -1,6 +1,6 @@
 package modelo
 
-object PruebaCasa extends App {
+/*object PruebaCasa extends App {
 
 // ============================================================
 // OBJETOS DE PRUEBA
@@ -198,3 +198,4 @@ println(
 s"ESTADO DE LA CASA: ${casaConfundida.estadoPuntuacion}"
 )
 }
+*/
