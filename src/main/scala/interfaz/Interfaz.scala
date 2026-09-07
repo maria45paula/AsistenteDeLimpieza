@@ -1,7 +1,7 @@
 package interfaz
 
 import scala.swing._
-import scala.swing.event.ButtonClicked
+import scala.swing.event.ButtonClicked 
 
 class Interfaz(robot: Robot, casa: Casa) extends MainFrame {
 
