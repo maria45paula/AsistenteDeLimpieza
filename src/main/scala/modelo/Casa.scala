@@ -38,10 +38,7 @@ class Casa {
   }
 
 
-  def buscarHabitacion(
-                        nombre: String
-                      ): Option[Habitacion] = {
-
+  def buscarHabitacion(nombre: String): Option[Habitacion] = {
     habitaciones.find(
       habitacion =>
         habitacion.nombre == nombre
@@ -50,19 +47,13 @@ class Casa {
   }
 
 
-  def limpiarHabitacion(
-                         nombre: String
-                       ): Unit = {
+  def limpiarHabitacion(nombre: String): Unit = {
 
-    val habitacion =
-      buscarHabitacion(nombre)
-
+    val habitacion = buscarHabitacion(nombre)
     habitacion match {
-
       case Some(habitacionEncontrada) =>
 
         habitacionEncontrada.limpiar()
-
         nivelLimpieza += 5
 
         if (nivelLimpieza > 100)
@@ -70,36 +61,22 @@ class Casa {
 
 
       case None =>
-
-        println(
-          "Habitación no encontrada."
-        )
-
+        println("Habitación no encontrada.")
     }
 
   }
 
 
-  def moverObjeto(
-                   objeto: String,
-                   habitacionDestino: String
-                 ): Unit = {
+  def moverObjeto(objeto: String, habitacionDestino: String): Unit = {
 
-    val destino =
-      buscarHabitacion(habitacionDestino)
+    val destino = buscarHabitacion(habitacionDestino)
 
     destino match {
-
       case Some(habitacion) =>
-
         habitacion.agregarObjeto(objeto)
-
-
+        
       case None =>
-
-        println(
-          "Habitación no encontrada."
-        )
+        println("Habitación no encontrada.")
 
     }
 

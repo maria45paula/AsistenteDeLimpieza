@@ -1,9 +1,6 @@
 package modelo
 
-class Habitacion(
-                  val nombre: String
-                ) {
-
+class Habitacion(val nombre: String) {
   var limpieza = 50
 
   private var objetos: List[ObjetoCasa] = List()

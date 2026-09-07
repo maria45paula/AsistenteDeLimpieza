@@ -8,43 +8,22 @@ import scala.swing.*
 import scala.swing.event.ButtonClicked
 
 
-class Interfaz(
-                robot: Robot,
-                casa: Casa
-              ) extends MainFrame {
+class Interfaz(robot: Robot, casa: Casa) extends MainFrame {
 
 
-  // =====================================
   // 1. TEXTOS
-  // =====================================
-
-  val titulo =
-    new Label("🤖 AYUDANTE DE LIMPIEZA") {
-
-      foreground = Color.white
-
-      font =
-        new Font(
-          "Verdana",
-          Font.BOLD,
-          20
-        )
-    }
+  val titulo = new Label("AYUDANTE DE LIMPIEZA") {
+    foreground = Color.white
+    font = new Font("Verdana", Font.BOLD, 20)
+  }
 
   titulo.xLayoutAlignment = 0.5
 
 
   val estadoRobot =
     new Label() {
-
       foreground = Color.white
-
-      font =
-        new Font(
-          "Verdana",
-          Font.PLAIN,
-          14
-        )
+      font = new Font("Verdana", Font.PLAIN, 14)
     }
 
   estadoRobot.xLayoutAlignment = 0.5
@@ -54,31 +33,18 @@ class Interfaz(
     new Label() {
 
       foreground = Color.white
-
-      font =
-        new Font(
-          "Verdana",
-          Font.PLAIN,
-          14
-        )
+      font = new Font("Verdana", Font.PLAIN, 14)
     }
 
   estadoCasa.xLayoutAlignment = 0.5
 
 
   val etiquetaRespuesta =
-    new Label(
-      "Tu asistente de limpieza fav:"
-    ) {
+    new Label("Tu asistente de limpieza fav:") {
 
       foreground = Color.white
 
-      font =
-        new Font(
-          "Verdana",
-          Font.BOLD,
-          14
-        )
+      font = new Font("Verdana", Font.BOLD, 14)
     }
 
   etiquetaRespuesta.xLayoutAlignment = 0.5
@@ -89,56 +55,31 @@ class Interfaz(
 
       foreground = Color.white
 
-      horizontalAlignment =
-        Alignment.Center
+      horizontalAlignment = Alignment.Center
 
-      font =
-        new Font(
-          "Verdana",
-          Font.PLAIN,
-          16
-        )
+      font = new Font("Verdana", Font.PLAIN, 16)
     }
 
   mensaje.xLayoutAlignment = 0.5
 
 
-  // =====================================
   // 2. IMAGEN
-  // =====================================
 
-  val ruta =
-    getClass.getResource(
-      "/imagenes/robot.jpg"
-    )
 
-  val iconoOriginal =
-    new ImageIcon(ruta)
+  val ruta = getClass.getResource("/imagenes/robot.jpg")
 
-  val imagenEscalada =
-    iconoOriginal.getImage
-      .getScaledInstance(
-        150,
-        150,
-        Image.SCALE_SMOOTH
-      )
+  val iconoOriginal = new ImageIcon(ruta)
 
-  val imagenRobot =
-    new Label {
+  val imagenEscalada = iconoOriginal.getImage.getScaledInstance(150, 150, Image.SCALE_SMOOTH)
 
-      icon =
-        new ImageIcon(
-          imagenEscalada
-        )
-
-    }
+  val imagenRobot = new Label {
+    icon = new ImageIcon(imagenEscalada)
+  }
 
   imagenRobot.xLayoutAlignment = 0.5
 
 
-  // =====================================
   // 3. SELECTOR DE HABITACIÓN
-  // =====================================
 
   val habitaciones =
     Vector(
@@ -149,21 +90,12 @@ class Interfaz(
     )
 
 
-  val etiquetaLugar =
-    new Label(
-      "📍 ¿Dónde quieres que trabaje?"
-    ) {
+  val etiquetaLugar = new Label("¿Dónde quieres que trabaje?") {
 
-      foreground = Color.white
+    foreground = Color.white
 
-      font =
-        new Font(
-          "Verdana",
-          Font.BOLD,
-          14
-        )
-
-    }
+    font = new Font("Verdana", Font.BOLD, 14)
+  }
 
   etiquetaLugar.xLayoutAlignment = 0.5
 
@@ -187,9 +119,9 @@ class Interfaz(
     "Sala"
 
 
-  // =====================================
+
   // 4. BOTONES
-  // =====================================
+
 
   val fuenteBotones =
     new Font(
@@ -207,36 +139,30 @@ class Interfaz(
     )
 
 
-  val limpiar =
-    new Button("🧹 Limpiar") {
+  val limpiar = new Button("Limpiar") {
 
-      font = fuenteBotones
+    font = fuenteBotones
+    background = colorBotones
+    foreground = Color.white
 
-      background =
-        colorBotones
-
-      foreground =
-        Color.white
-
-    }
+  }
 
 
-  val recoger =
-    new Button("👕 Recoger") {
+  val recoger = new Button(" Recoger") {
 
-      font = fuenteBotones
+    font = fuenteBotones
 
-      background =
-        colorBotones
+    background =
+      colorBotones
 
-      foreground =
-        Color.white
+    foreground =
+      Color.white
 
-    }
+  }
 
 
   val organizar =
-    new Button("📦 Organizar") {
+    new Button("Organizar") {
 
       font = fuenteBotones
 
@@ -250,7 +176,7 @@ class Interfaz(
 
 
   val cargar =
-    new Button("🔋 Cargar") {
+    new Button(" Cargar") {
 
       font = fuenteBotones
 
@@ -280,9 +206,7 @@ class Interfaz(
     0.5
 
 
-  // =====================================
   // 5. VENTANA
-  // =====================================
 
   contents =
     new BoxPanel(
@@ -349,16 +273,12 @@ class Interfaz(
     }
 
 
-  // =====================================
-  // 6. ESTADO INICIAL
-  // =====================================
 
+  // 6. ESTADO INICIAL
   actualizarEstado()
 
-
-  // =====================================
   // 7. ESCUCHAR BOTONES
-  // =====================================
+
 
   listenTo(
     limpiar,
@@ -368,9 +288,7 @@ class Interfaz(
   )
 
 
-  // =====================================
   // 8. ACCIONES
-  // =====================================
 
   reactions += {
 
@@ -431,7 +349,7 @@ class Interfaz(
 
 
       mensaje.text =
-        "🔋 Robot cargado al 100%."
+        "Robot cargado al 100%."
 
 
       actualizarEstado()
@@ -439,18 +357,15 @@ class Interfaz(
   }
 
 
-  // =====================================
   // 9. ACTUALIZAR ESTADO
-  // =====================================
+
 
   def actualizarEstado(): Unit = {
 
-    estadoRobot.text =
-      s"🤖 Energía: ${robot.energia}% | 📍 Ubicación: ${robot.ubicacion}"
+    estadoRobot.text = s"Energía: ${robot.energia}% |  Ubicación: ${robot.ubicacion}"
 
 
-    estadoCasa.text =
-      s"🏠 Limpieza de la casa: ${casa.nivelLimpieza}%"
+    estadoCasa.text = s"Limpieza de la casa: ${casa.nivelLimpieza}%"
 
   }
 

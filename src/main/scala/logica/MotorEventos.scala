@@ -7,11 +7,7 @@ import scala.util.Random
 object MotorEventos {
 
 
-  def generarEvento(
-                     accion: String,
-                     robot: Robot,
-                     casa: Casa
-                   ): String = {
+  def generarEvento(accion: String, robot: Robot, casa: Casa): String = {
 
     val numero = Random.nextInt(100)
 
@@ -19,16 +15,11 @@ object MotorEventos {
 
 
     accion match {
-
-      // =====================================
       // LIMPIAR
-      // =====================================
 
       case "limpiar" =>
 
         lugar match {
-
-
           // ---------- SALA ----------
 
           case "Sala" =>
@@ -62,7 +53,7 @@ object MotorEventos {
 
             if (numero < 50) {
 
-              "🧹 La cocina quedó muy limpia."
+              " La cocina quedó muy limpia."
 
             } else if (numero < 70) {
 
@@ -89,7 +80,7 @@ object MotorEventos {
 
             if (numero < 50) {
 
-              "🧹 La habitación quedó limpia."
+              "La habitación quedó limpia."
 
             } else if (numero < 70) {
 
@@ -116,7 +107,7 @@ object MotorEventos {
 
             if (numero < 50) {
 
-              "🧹 El baño quedó perfectamente limpio."
+              "El baño quedó perfectamente limpio."
 
             } else if (numero < 70) {
 
@@ -144,9 +135,7 @@ object MotorEventos {
         }
 
 
-      // =====================================
       // RECOGER
-      // =====================================
 
       case "recoger" =>
 
@@ -159,7 +148,7 @@ object MotorEventos {
 
             if (numero < 50) {
 
-              "👕 Recogí todo lo que estaba fuera de lugar en la sala."
+              "Recogí todo lo que estaba fuera de lugar en la sala."
 
             } else if (numero < 70) {
 
@@ -182,7 +171,7 @@ object MotorEventos {
 
             if (numero < 50) {
 
-              "👕 Recogí todos los objetos de la cocina."
+              "Recogí todos los objetos de la cocina."
 
             } else if (numero < 70) {
 
@@ -205,7 +194,7 @@ object MotorEventos {
 
             if (numero < 50) {
 
-              "👕 Recogí toda la ropa y los zapatos."
+              "Recogí toda la ropa y los zapatos."
 
             } else if (numero < 70) {
 
@@ -228,7 +217,7 @@ object MotorEventos {
 
             if (numero < 50) {
 
-              "👕 Recogí las cosas del baño correctamente."
+              "Recogí las cosas del baño correctamente."
 
             } else if (numero < 70) {
 
@@ -252,9 +241,8 @@ object MotorEventos {
         }
 
 
-      // =====================================
       // ORGANIZAR
-      // =====================================
+
 
       case "organizar" =>
 
@@ -267,7 +255,7 @@ object MotorEventos {
 
             if (numero < 50) {
 
-              "📦 La sala quedó perfectamente organizada."
+              "La sala quedó perfectamente organizada."
 
             } else if (numero < 70) {
 
@@ -290,7 +278,7 @@ object MotorEventos {
 
             if (numero < 50) {
 
-              "📦 La cocina quedó perfectamente organizada."
+              "La cocina quedó perfectamente organizada."
 
             } else if (numero < 70) {
 
@@ -313,7 +301,7 @@ object MotorEventos {
 
             if (numero < 50) {
 
-              "📦 La habitación quedó perfectamente organizada."
+              "La habitación quedó perfectamente organizada."
 
             } else if (numero < 70) {
 
@@ -336,7 +324,7 @@ object MotorEventos {
 
             if (numero < 50) {
 
-              "📦 El baño quedó perfectamente organizado."
+              " El baño quedó perfectamente organizado."
 
             } else if (numero < 70) {
 

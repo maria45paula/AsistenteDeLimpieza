@@ -9,15 +9,11 @@ class Robot(val nombre: String, val memoria: MemoriaRobot) {
   var ubicacion = "Sala"
 
 
-  def ejecutar(
-                accion: String,
-                casa: Casa,
-                lugar: String
-              ): String = {
+  def ejecutar(accion: String,casa: Casa, lugar: String): String = {
 
     if (energia <= 0) {
 
-      return "🔋 No puedo hacer nada. Estoy sin batería."
+      return "No puedo hacer nada. Estoy sin batería."
 
     }
 
@@ -39,7 +35,7 @@ class Robot(val nombre: String, val memoria: MemoriaRobot) {
           organizar(casa)
 
         case _ =>
-          "❓ No entiendo esa orden."
+          " No entiendo esa orden."
 
       }
 
@@ -50,49 +46,31 @@ class Robot(val nombre: String, val memoria: MemoriaRobot) {
   }
 
 
-  private def limpiar(
-                       casa: Casa
-                     ): String = {
+  private def limpiar(casa: Casa): String = {
 
     energia -= 10
 
     casa.limpiarHabitacion(ubicacion)
 
-    MotorEventos.generarEvento(
-      "limpiar",
-      this,
-      casa
-    )
+    MotorEventos.generarEvento("limpiar", this, casa)
 
   }
 
 
-  private def recoger(
-                       casa: Casa
-                     ): String = {
+  private def recoger(casa: Casa): String = {
 
     energia -= 8
 
-    MotorEventos.generarEvento(
-      "recoger",
-      this,
-      casa
-    )
+    MotorEventos.generarEvento("recoger", this, casa)
 
   }
 
 
-  private def organizar(
-                         casa: Casa
-                       ): String = {
+  private def organizar(casa: Casa): String = {
 
     energia -= 12
 
-    MotorEventos.generarEvento(
-      "organizar",
-      this,
-      casa
-    )
+    MotorEventos.generarEvento("organizar", this, casa)
 
   }
 
