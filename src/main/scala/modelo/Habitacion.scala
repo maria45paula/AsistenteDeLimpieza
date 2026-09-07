@@ -1,14 +1,25 @@
-package modelo
+class Habitacion(val nombre: String) {
 
-sealed trait Habitacion
+  var limpieza = 50
 
-object Habitacion {
-  case object Dormitorio extends Habitacion
-  case object Cocina extends Habitacion
-  case object Sala extends Habitacion
-  case object Bano extends Habitacion
-  case object Patio extends Habitacion
+  private var objetos: List[ObjetoCasa] = List()
 
-  val todas: List[Habitacion] =
-    List(Dormitorio, Cocina, Sala, Bano, Patio)
+  def agregarObjeto(nombre: String): Unit = {
+    objetos = objetos :+ new ObjetoCasa(nombre)
+  }
+
+  def agregarObjeto(objeto: ObjetoCasa): Unit = {
+    objetos = objetos :+ objeto
+  }
+
+  def limpiar(): Unit = {
+    limpieza += 20
+
+    if (limpieza > 100)
+      limpieza = 100
+  }
+
+  def obtenerObjetos(): List[ObjetoCasa] = {
+    objetos
+  }
 }
